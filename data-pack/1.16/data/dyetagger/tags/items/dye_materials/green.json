@@ -1,0 +1,38 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:vine",
+		{
+			"id": "biomesoplenty:willow_vine",
+			"required": false
+		},
+		{
+			"id": "byg:clover_patch",
+			"required": false
+		},
+		{
+			"id": "byg:tiny_lily_pads",
+			"required": false
+		},
+		{
+			"id": "byg:horseweed",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:parrot_toadstool",
+			"required": false
+		},
+		{
+			"id": "quark:cactus_paste",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:moss_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:moss_coral_fan",
+			"required": false
+		}
+	]
+}

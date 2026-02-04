@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "byg:azalea",
+			"required": false
+		},
+		{
+			"id": "byg:delphinium",
+			"required": false
+		}
+	]
+}

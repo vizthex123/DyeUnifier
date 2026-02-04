@@ -1,0 +1,23 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:ink_sac",
+		"minecraft:wither_rose",
+		{
+			"id": "byg:black_rose",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:inkycaps",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:branch_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:branch_coral_fan",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "environmental:bird_of_paradise",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:penny_bun",
+			"required": false
+		}
+	]
+}

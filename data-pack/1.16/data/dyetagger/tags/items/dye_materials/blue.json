@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:cornflower",
+		"minecraft:lapis_lazuli",
+		"minecraft:tube_coral",
+		"minecraft:tube_coral_fan",
+		{
+			"id": "byg:blueberries",
+			"required": false
+		},
+		{
+			"id": "byg:blue_sage",
+			"required": false
+		},
+		{
+			"id": "byg:violet_leather_flower",
+			"required": false
+		},
+		{
+			"id": "environmental:bluebell",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:bluechanterelle",
+			"required": false
+		},
+		{
+			"id": "pamhc2crops:blueberryseeditem",
+			"required": false
+		}
+	]
+}

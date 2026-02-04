@@ -1,0 +1,24 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:azure_bluet",
+		"minecraft:oxeye_daisy",
+		"minecraft:white_tulip",
+		{
+			"id": "atmospheric:yucca_flower",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:endbloom",
+			"required": false
+		},
+		{
+			"id": "byg:black_puff",
+			"required": false
+		},
+		{
+			"id": "byg:richea",
+			"required": false
+		}
+	]
+}

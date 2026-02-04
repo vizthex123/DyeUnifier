@@ -1,0 +1,64 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:warped_fungus",
+		"minecraft:warped_roots",
+		"minecraft:twisting_vines",
+		{
+			"id": "biomesoplenty:glowflower",
+			"required": false
+		},
+		{
+			"id": "byg:cyan_amaranth",
+			"required": false
+		},
+		{
+			"id": "byg:cyan_rose",
+			"required": false
+		},
+		{
+			"id": "byg:cyan_tulip",
+			"required": false
+		},
+		{
+			"id": "byg:winter_cyclamen",
+			"required": false
+		},
+		{
+			"id": "byg:imparius_mushroom",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:bluing_bolete",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:verdigris_agaric",
+			"required": false
+		},
+		{
+			"id": "outer_end:azure_berries",
+			"required": false
+		},
+		{
+			"id": "outer_end:azure_bud",
+			"required": false
+		},
+		{
+			"id": "outer_end:azure_vines",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:pickerelweed",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:acan_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:acan_coral_fan",
+			"required": false
+		}
+	]
+}

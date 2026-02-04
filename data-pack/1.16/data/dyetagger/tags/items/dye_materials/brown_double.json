@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomesoplenty:cattail",
+			"required": false
+		},
+		{
+			"id": "environmental:tall_cattail",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:giantpuffball",
+			"required": false
+		}
+	]
+}

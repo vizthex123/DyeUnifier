@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "byg:foxglove",
+			"required": false
+		},
+		{
+			"id": "outer_end:spectragel",
+			"required": false
+		}
+	]
+}

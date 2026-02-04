@@ -1,0 +1,26 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:rose_bush",
+		{
+			"id": "alexscaves:flytrap",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:bleeding_fairy_helmet",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:bleeding_tooth_fungus",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:red_tear_mushroom",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:strawberry_bracket",
+			"required": false
+		}
+	]
+}

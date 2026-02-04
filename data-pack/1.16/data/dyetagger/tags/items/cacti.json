@@ -1,0 +1,26 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:cactus",
+		{
+			"id": "atmospheric:barrel_cactus",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:tiny_cactus",
+			"required": false
+		},
+		{
+			"id": "byg:mini_cactus",
+			"required": false
+		},
+		{
+			"id": "byg:prickly_pear_cactus",
+			"required": false
+		},
+		{
+			"id": "byg:golden_spine_cactus",
+			"required": false
+		}
+	]
+}

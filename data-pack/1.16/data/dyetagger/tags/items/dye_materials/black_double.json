@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mushroomquest:shaggy_mane_block",
+			"required": false
+		}
+	]
+}

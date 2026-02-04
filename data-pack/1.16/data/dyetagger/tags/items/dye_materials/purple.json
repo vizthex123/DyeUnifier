@@ -1,0 +1,81 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "atmospheric:passion_fruit",
+			"required": false
+		},
+		{
+			"id": "atmospheric:water_hyacinth",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:lavender",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:violet",
+			"required": false
+		},
+		{
+			"id": "byg:allium_flower_bush",
+			"required": false
+		},
+		{
+			"id": "byg:alpine_bellflower",
+			"required": false
+		},
+		{
+			"id": "byg:crocus",
+			"required": false
+		},
+		{
+			"id": "byg:iris",
+			"required": false
+		},
+		{
+			"id": "byg:purple_amaranth",
+			"required": false
+		},
+		{
+			"id": "byg:purple_orchid",
+			"required": false
+		},
+		{
+			"id": "byg:purple_sage",
+			"required": false
+		},
+		{
+			"id": "byg:purple_tulip",
+			"required": false
+		},
+		{
+			"id": "environmental:purple_hibiscus",
+			"required": false
+		},
+		{
+			"id": "environmental:violet",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:violetcort",
+			"required": false
+		},
+		{
+			"id": "oceanfront:beach_plum",
+			"required": false
+		},
+		{
+			"id": "phantasm:oblivine",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:silk_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:silk_coral_fan",
+			"required": false
+		}
+	]
+}

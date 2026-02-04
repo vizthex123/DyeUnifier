@@ -1,0 +1,48 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:allium",
+		"minecraft:bubble_coral",
+		"minecraft:bubble_coral_fan",
+		{
+			"id": "autumnity:autumn_crocus",
+			"required": false
+		},
+		{
+			"id": "atmospheric:gilia",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:wildflower",
+			"required": false
+		},
+		{
+			"id": "byg:fairy_slipper",
+			"required": false
+		},
+		{
+			"id": "byg:lazarus_bellflower",
+			"required": false
+		},
+		{
+			"id": "byg:magenta_amaranth",
+			"required": false
+		},
+		{
+			"id": "byg:magenta_tulip",
+			"required": false
+		},
+		{
+			"id": "byg:protea_flower",
+			"required": false
+		},
+		{
+			"id": "environmental:magenta_hibiscus",
+			"required": false
+		},
+		{
+			"id": "#forge:fruits/mulberry",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:blue_orchid",
+		{
+			"id": "byg:thereal_bellflower",
+			"required": false
+		},
+		{
+			"id": "byg:winter_scilla",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:indigomilkcap",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:dewdrop_bonnet",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:werewere_kokako",
+			"required": false
+		},
+		{
+			"id": "outer_end:azure_bud",
+			"required": false
+		},
+		{
+			"id": "quark:glowshroom",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:petal_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:petal_coral_fan",
+			"required": false
+		}
+	]
+}

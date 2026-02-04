@@ -1,0 +1,67 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:bone_meal",
+		"minecraft:lily_of_the_valley",
+		{
+			"id": "biomesoplenty:white_lavender",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:white_petals",
+			"required": false
+		},
+		{
+			"id": "byg:angelica",
+			"required": false
+		},
+		{
+			"id": "byg:snowdrops",
+			"required": false
+		},
+		{
+			"id": "byg:white_anemone",
+			"required": false
+		},
+		{
+			"id": "byg:white_rose",
+			"required": false
+		},
+		{
+			"id": "byg:white_sage",
+			"required": false
+		},
+		{
+			"id": "buzzier_bees:white_clover",
+			"required": false
+		},
+		{
+			"id": "environmental:white_lotus_flower",
+			"required": false
+		},
+		{
+			"id": "pamhc2crops:whitemushroomseeditem",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:white_searocket",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:pillow_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:pillow_coral_fan",
+			"required": false
+		},
+		{
+			"id": "#forge:dusts/salt",
+			"required": false
+		},
+		{
+			"id": "#forge:dusts/saltpeter",
+			"required": false
+		}
+	]
+}

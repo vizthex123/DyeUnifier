@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"#dyetagger:cacti",
+		{
+			"id": "atmospheric:aloe_leaves",
+			"required": false
+		}
+	]
+}

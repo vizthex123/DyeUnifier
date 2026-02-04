@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 6,
+        "description": "Fixes dye recipes by adding tags to a ton of items. Recipes are handled KubeJS. Pack made by vizthex for use in his modpacks."
+	}
+}
