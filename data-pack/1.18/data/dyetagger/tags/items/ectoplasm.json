@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomemakeover:ectoplasm",
+			"required": false
+		},
+		{
+			"id": "nourished_nether:ectoplasm",
+			"required": false
+		}
+	]
+}

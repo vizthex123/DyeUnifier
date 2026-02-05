@@ -1,0 +1,22 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:peony",
+		{
+			"id": "byg:japanese_orchid",
+			"required": false
+		},
+		{
+			"id": "byg:tall_pink_allium",
+			"required": false
+		},
+		{
+			"id": "environmental:pink_delphinium",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:flowering_rush",
+			"required": false
+		}
+	]
+}

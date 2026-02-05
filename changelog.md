@@ -10,6 +10,29 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+## 2.0
+
+Ported to 1.18.
+
+Mod support added:
+
+- Additional Additions
+- Aquamirae
+- Biome Makeover
+- Botania
+- Ecologics
+- Enlightend
+- Netherific
+- Regions Unexplored
+- Silver Birch
+- The Twilight Forest
+- YUNG's Cave Biomes
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 1.0
 
 Initial release.

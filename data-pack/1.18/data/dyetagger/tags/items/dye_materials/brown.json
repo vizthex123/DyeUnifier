@@ -1,0 +1,75 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:brown_mushroom",
+		"minecraft:cocoa_beans",
+		{
+			"id": "biomemakeover:brown_petals",
+			"required": false
+		},
+		{
+			"id": "botania:brown_petal",
+			"required": false
+		},
+		{
+			"id": "botania:brown_mushroom",
+			"required": false
+		},
+		{
+			"id": "byg:cattail_sprout",
+			"required": false
+		},
+		{
+			"id": "byg:reeds",
+			"required": false
+		},
+		{
+			"id": "byg:weeping_milkcap",
+			"required": false
+		},
+		{
+			"id": "byg:wood_blewit",
+			"required": false
+		},
+		{
+			"id": "byg:mud_ball",
+			"required": false
+		},
+		{
+			"id": "ecologics:coconut_husk",
+			"required": false
+		},
+		{
+			"id": "ecologics:walnut",
+			"required": false
+		},
+		{
+			"id": "environmental:cattail",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:brownrollrim",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:micacaps",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:woolychanterelle",
+			"required": false
+		},
+		{
+			"id": "nourished_nether:sludge_ball",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:rock_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:rock_coral_fan",
+			"required": false
+		}
+	]
+}

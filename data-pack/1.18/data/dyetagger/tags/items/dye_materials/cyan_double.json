@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "aquamirae:elodea",
+			"required": false
+		},
+		{
+			"id": "byg:foxglove",
+			"required": false
+		}
+	]
+}

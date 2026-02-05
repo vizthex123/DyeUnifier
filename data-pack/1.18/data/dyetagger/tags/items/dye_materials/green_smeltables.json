@@ -1,0 +1,27 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:lily_pad",
+		{
+			"id": "aquamirae:anglers_fang",
+			"required": false
+		},
+		{
+			"id": "atmospheric:aloe_leaves",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:small_lily_pad",
+			"required": false
+		},
+		{
+			"id": "byg:tiny_lilypads",
+			"required": false
+		},
+		{
+			"id": "byg:flowering_tiny_lily_pads",
+			"required": false
+		},
+		"#dyetagger:cacti"
+	]
+}

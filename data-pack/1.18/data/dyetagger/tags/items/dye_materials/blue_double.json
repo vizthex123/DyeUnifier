@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "byg:delphinium",
+			"required": false
+		},
+		{
+			"id": "byg:hydrangea_bush",
+			"required": false
+		}
+	]
+}

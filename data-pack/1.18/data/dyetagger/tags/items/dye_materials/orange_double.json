@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomemakeover:marigold",
+			"required": false
+		},
+		{
+			"id": "environmental:bird_of_paradise",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:penny_bun",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:tsubaki",
+			"required": false
+		}
+	]
+}

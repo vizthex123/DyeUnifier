@@ -1,0 +1,18 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:jack_o_lantern",
+		{
+			"id": "autumnity:soul_jack_o_lantern",
+			"required": false
+		},
+		{
+			"id": "autumnity:large_jack_o_lantern_slice",
+			"required": false
+		},
+		{
+			"id": "autumnity:large_soul_jack_o_lantern_slice",
+			"required": false
+		}
+	]
+}

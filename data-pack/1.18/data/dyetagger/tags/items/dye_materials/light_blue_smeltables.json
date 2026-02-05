@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "aquamirae:esca",
+			"required": false
+		},
+		{
+			"id": "aquamirae:fin",
+			"required": false
+		},
+		{
+			"id": "aquamirae:oxygelium",
+			"required": false
+		}
+	]
+}

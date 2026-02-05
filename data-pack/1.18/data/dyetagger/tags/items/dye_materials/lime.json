@@ -1,0 +1,57 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "atmospheric:passion_vine",
+			"required": false
+		},
+		{
+			"id": "atmospheric:yucca_fruit",
+			"required": false
+		},
+		{
+			"id": "botania:lime_petal",
+			"required": false
+		},
+		{
+			"id": "botania:lime_mushroom",
+			"required": false
+		},
+		{
+			"id": "byg:green_apple",
+			"required": false
+		},
+		{
+			"id": "byg:green_mushroom",
+			"required": false
+		},
+		{
+			"id": "byg:green_tulip",
+			"required": false
+		},
+		{
+			"id": "enlightened_end:cradling_flower",
+			"required": false
+		},
+		{
+			"id": "environmental:dianthus",
+			"required": false
+		},
+		{
+			"id": "nourished_nether:warped_bush",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:green_bioshroom",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:star_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:star_coral_fan",
+			"required": false
+		}
+	]
+}

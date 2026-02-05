@@ -1,0 +1,70 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:blue_orchid",
+		{
+			"id": "biomemakeover:light_blue_petals",
+			"required": false
+		},
+		{
+			"id": "botania:light_blue_petal",
+			"required": false
+		},
+		{
+			"id": "botania:light_blue_mushroom",
+			"required": false
+		},
+		{
+			"id": "byg:thereal_bellflower",
+			"required": false
+		},
+		{
+			"id": "byg:winter_scilla",
+			"required": false
+		},
+		{
+			"id": "enlightened_end:cerulean_vine",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:indigomilkcap",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:dewdrop_bonnet",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:werewere_kokako",
+			"required": false
+		},
+		{
+			"id": "nourished_nether:soul_weeds",
+			"required": false
+		},
+		{
+			"id": "outer_end:azure_bud",
+			"required": false
+		},
+		{
+			"id": "quark:glowshroom",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:felicia_daisy",
+			"required": false
+		},
+		{
+			"id": "yungscavebiomes:frost_lily",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:petal_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:petal_coral_fan",
+			"required": false
+		}
+	]
+}

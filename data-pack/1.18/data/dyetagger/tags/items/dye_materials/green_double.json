@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomesoplenty:huge_clover_petal",
+			"required": false
+		},
+		{
+			"id": "buzzier_bees:four_leaf_clover",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mushroomquest:cinnamonbracket",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:woodblewit",
+			"required": false
+		}
+	]
+}

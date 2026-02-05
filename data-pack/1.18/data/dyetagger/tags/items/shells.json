@@ -1,0 +1,14 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:nautilus_shell",
+		{
+			"id": "autumnity:snail_shell_piece",
+			"required": false
+		},
+		{
+			"id": "ecologics:seashell",
+			"required": false
+		}
+	]
+}
