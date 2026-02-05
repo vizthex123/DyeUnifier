@@ -10,6 +10,21 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+## 3.0
+
+Ported to 1.19.
+
+Mod support added:
+
+- Ad Astra
+- Forestry: Community Edition
+- XyCraft: World
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 2.0
 
 Ported to 1.18.

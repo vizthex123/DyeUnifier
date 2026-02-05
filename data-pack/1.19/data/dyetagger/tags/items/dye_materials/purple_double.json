@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomemakeover:foxglove",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:tall_lavender",
+			"required": false
+		},
+		{
+			"id": "byg:tall_allium",
+			"required": false
+		},
+		{
+			"id": "environmental:purple_delphinium",
+			"required": false
+		}
+	]
+}

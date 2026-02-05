@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mushroomquest:chickenofthewoods",
+			"required": false
+		},
+		{
+			"id": "veggiesdelight:mature_dandelion",
+			"required": false
+		}
+	]
+}

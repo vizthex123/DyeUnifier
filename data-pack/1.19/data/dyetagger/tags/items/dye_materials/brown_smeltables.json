@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mushroomquest:artist_conk_block",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:lingzhimushroom",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:turkeytail",
+			"required": false
+		}
+	]
+}

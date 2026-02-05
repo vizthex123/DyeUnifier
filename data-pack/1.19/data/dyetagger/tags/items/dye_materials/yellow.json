@@ -1,0 +1,72 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:dandelion",
+		"minecraft:horn_coral",
+		"minecraft:horn_coral_fan",
+		{
+			"id": "atmospheric:forsythia",
+			"required": false
+		},
+		{
+			"id": "atmospheric:yellow_blossoms",
+			"required": false
+		},
+		{
+			"id": "atmospheric:warm_monkey_brush",
+			"required": false
+		},
+		{
+			"id": "botania:yellow_petal",
+			"required": false
+		},
+		{
+			"id": "botania:yellow_mushroom",
+			"required": false
+		},
+		{
+			"id": "byg:lolipop_flower",
+			"required": false
+		},
+		{
+			"id": "byg:yellow_daffodil",
+			"required": false
+		},
+		{
+			"id": "byg:yellow_tulip",
+			"required": false
+		},
+		{
+			"id": "byg:sythian_fungus",
+			"required": false
+		},
+		{
+			"id": "buzzier_bees:buttercup",
+			"required": false
+		},
+		{
+			"id": "environmental:yellow_hibiscus",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:swamprussula",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:alpha_dandelion",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:yellow_bioshroom",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:yellow_lupine",
+			"required": false
+		},
+		{
+			"id": "#forge:dusts/sulfur",
+			"required": false
+		}
+	]
+}

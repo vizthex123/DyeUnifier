@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomemakeover:swamp_azalea",
+			"required": false
+		},
+		{
+			"id": "environmental:white_delphinium",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:tassel",
+			"required": false
+		}
+	]
+}
