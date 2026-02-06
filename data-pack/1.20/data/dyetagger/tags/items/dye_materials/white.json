@@ -1,0 +1,111 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:bone_meal",
+		"minecraft:lily_of_the_valley",
+		{
+			"id": "biomesoplenty:white_lavender",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:white_petals",
+			"required": false
+		},
+		{
+			"id": "botania:white_petal",
+			"required": false
+		},
+		{
+			"id": "botania:white_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:angelica",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:bistort",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:snowdrops",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:white_allium",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:white_allium_flower_bush",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:white_anemone",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:white_sage",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:winter_rose",
+			"required": false
+		},
+		{
+			"id": "buzzier_bees:white_clover",
+			"required": false
+		},
+		{
+			"id": "environmental:white_lotus_flower",
+			"required": false
+		},
+		{
+			"id": "netherexp:brightspores",
+			"required": false
+		},
+		{
+			"id": "pamhc2crops:whitemushroomseeditem",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:white_trillium",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:white_magnolia_flowers",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:white_snowbelle",
+			"required": false
+		},
+		{
+			"id": "silverbirch:blossom_flower",
+			"required": false
+		},
+		{
+			"id": "silverbirch:white_flower_patch",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:white_searocket",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:pillow_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:pillow_coral_fan",
+			"required": false
+		},
+		{
+			"id": "#forge:dusts/salt",
+			"required": false
+		},
+		{
+			"id": "#forge:dusts/saltpeter",
+			"required": false
+		}
+	]
+}

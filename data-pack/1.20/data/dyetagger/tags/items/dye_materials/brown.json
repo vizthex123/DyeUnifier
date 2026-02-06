@@ -1,0 +1,95 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:brown_mushroom",
+		"minecraft:cocoa_beans",
+		{
+			"id": "alexscaves:guano",
+			"required": false
+		},
+		{
+			"id": "alexscaves:moth_dust",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:brown_bud",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:reed",
+			"required": false
+		},
+		{
+			"id": "botania:brown_petal",
+			"required": false
+		},
+		{
+			"id": "botania:brown_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:cattail_sprout",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:reeds",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:weeping_milkcap",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:wood_blewit",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:mud_ball",
+			"required": false
+		},
+		{
+			"id": "ecologics:coconut_husk",
+			"required": false
+		},
+		{
+			"id": "ecologics:walnut",
+			"required": false
+		},
+		{
+			"id": "environmental:cattail",
+			"required": false
+		},
+		{
+			"id": "forestry:mulch",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:brown_roll_rim",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:mica_caps",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:wooly_chanterelle",
+			"required": false
+		},
+		{
+			"id": "netherexp:blightwart",
+			"required": false
+		},
+		{
+			"id": "nourished_nether:sludge_ball",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:rock_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:rock_coral_fan",
+			"required": false
+		}
+	]
+}

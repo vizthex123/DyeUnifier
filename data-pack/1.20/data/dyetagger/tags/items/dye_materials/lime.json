@@ -1,0 +1,73 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "ad_astra:aeronos_mushroom",
+			"required": false
+		},
+		{
+			"id": "alexscaves:gelatin_green",
+			"required": false
+		},
+		{
+			"id": "alexscaves:toxic_paste",
+			"required": false
+		},
+		{
+			"id": "atmospheric:passion_vine",
+			"required": false
+		},
+		{
+			"id": "atmospheric:yucca_fruit",
+			"required": false
+		},
+		{
+			"id": "botania:lime_petal",
+			"required": false
+		},
+		{
+			"id": "botania:lime_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:green_apple",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:green_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:green_tulip",
+			"required": false
+		},
+		{
+			"id": "enlightened_end:cradling_flower",
+			"required": false
+		},
+		{
+			"id": "environmental:dianthus",
+			"required": false
+		},
+		{
+			"id": "quark:glow_shroom",
+			"required": false
+		},
+		{
+			"id": "nourished_nether:warped_bush",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:green_bioshroom",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:star_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:star_coral_fan",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:apple",
+		"minecraft:beetroot",
+		"minecraft:poppy",
+		"minecraft:red_mushroom",
+		"minecraft:red_tulip",
+		"minecraft:spider_eye",
+		"minecraft:sweet_berries",
+		"minecraft:melon_slice",
+		"minecraft:crimson_fungus",
+		"minecraft:crimson_roots",
+		"minecraft:nether_wart",
+		"minecraft:weeping_vines",
+		"minecraft:fire_coral",
+		"minecraft:fire_coral_fan",
+		"minecraft:redstone",
+		{
+			"id": "alexscaves:gelatin_red",
+			"required": false
+		},
+		{
+			"id": "atmospheric:scalding_monkey_brush",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:moth_blossom",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:rose",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:waterlily",
+			"required": false
+		},
+		{
+			"id": "botania:red_petal",
+			"required": false
+		},
+		{
+			"id": "botania:red_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:amaranth",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:begonia",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:kovan_flower",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:red_cornflower",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:red_orchid",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:rose",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:torch_ginger",
+			"required": false
+		},
+		{
+			"id": "environmental:red_hibiscus",
+			"required": false
+		},
+		{
+			"id": "environmental:red_lotus_flower",
+			"required": false
+		},
+		{
+			"id": "pamhc2crops:cactusfruitseeditem",
+			"required": false
+		},
+		{
+			"id": "twilightforest:thorn_rose",
+			"required": false
+		}
+	]
+}

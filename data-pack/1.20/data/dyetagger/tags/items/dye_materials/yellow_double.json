@@ -1,0 +1,22 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:sunflower",
+		{
+			"id": "ad_astra:cheese",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:goldenrod",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:golden_chanterelle",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:yellow_stainer",
+			"required": false
+		}
+	]
+}

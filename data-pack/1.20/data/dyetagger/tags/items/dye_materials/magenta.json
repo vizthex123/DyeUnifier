@@ -1,0 +1,76 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:allium",
+		"minecraft:bubble_coral",
+		"minecraft:bubble_coral_fan",
+		{
+			"id": "autumnity:autumn_crocus",
+			"required": false
+		},
+		{
+			"id": "atmospheric:gilia",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:magenta_bud",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:wildflower",
+			"required": false
+		},
+		{
+			"id": "botania:magenta_petal",
+			"required": false
+		},
+		{
+			"id": "botania:magenta_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:fairy_slipper",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:incan_lily",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:lazarus_bellflower",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:magenta_amaranth",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:magenta_tulip",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:protea_flower",
+			"required": false
+		},
+		{
+			"id": "ecologics:prickly_pear",
+			"required": false
+		},
+		{
+			"id": "environmental:magenta_hibiscus",
+			"required": false
+		},
+		{
+			"id": "twilightforest:huge_water_lily",
+			"required": false
+		},
+		{
+			"id": "netherexp:nightspores",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:mulberry",
+			"required": false
+		}
+	]
+}

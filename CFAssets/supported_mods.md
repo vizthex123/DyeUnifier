@@ -1,0 +1,31 @@
+* [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)
+* [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)
+* [Atmospheric](https://www.curseforge.com/minecraft/mc-mods/atmospheric)
+* [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)
+* [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover-forge)
+* [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+* [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees)
+* [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)
+* [End's Phantasm](https://www.curseforge.com/minecraft/mc-mods/phantasm)
+* [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)
+* [Forestry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/forestry-community-edition)
+* [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)
+* [Mushroom Quest](https://www.curseforge.com/minecraft/mc-mods/mushroom-quest)
+* [Oceanfront](https://www.curseforge.com/minecraft/mc-mods/oceanfront)
+* [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
+* [Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone)
+* [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)
+* [Pam's Harvestcraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
+* [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)
+* [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
+* [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
+* [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
+* [Vintage Delight](https://www.curseforge.com/minecraft/mc-mods/vintage-delight)
+* [XyCraft: World](https://www.curseforge.com/minecraft/mc-mods/xycraft-world)
+* [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)
+
+<br />
+
+Empty line for when I add more support:
+
+* [NAME](Link)

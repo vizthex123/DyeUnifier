@@ -1,0 +1,124 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:pink_tulip",
+		"minecraft:brain_coral",
+		"minecraft:brain_coral_fan",
+		{
+			"id": "alexscaves:gelatin_pink",
+			"required": false
+		},
+		{
+			"id": "atmospheric:dragon_fruit",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:pink_bud",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:pink_daffodil",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:pink_hibiscus",
+			"required": false
+		},
+		{
+			"id": "botania:pink_petal",
+			"required": false
+		},
+		{
+			"id": "botania:pink_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:bistort",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:daffodil",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:osiria_rose",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:peach_leather_flower",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:pink_allium",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:pink_allium_flower_bush",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:pink_anemone",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:pink_daffodil",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:pink_orchid",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:silver_vase_flower",
+			"required": false
+		},
+		{
+			"id": "buzzier_bees:pink_clover",
+			"required": false
+		},
+		{
+			"id": "ecologics:azalea_flower",
+			"required": false
+		},
+		{
+			"id": "enlightened_end:ennegel_glob",
+			"required": false
+		},
+		{
+			"id": "environmental:cartwheel",
+			"required": false
+		},
+		{
+			"id": "environmental:pink_hibiscus",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:cactus_flower",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:fireweed",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:pink_bioshroom",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:pink_lupine",
+			"required": false
+		},
+		{
+			"id": "silverbirch:pink_flower_patch",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:pink_searocket",
+			"required": false
+		},
+		{
+			"id": "yungscavebiomes:prickly_peach",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"replace": false,
+	"values": [
+		"#dyetagger:dead_coral",
+		{
+			"id": "biomemakeover:gray_bud",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:wilted_lily",
+			"required": false
+		},
+		{
+			"id": "botania:gray_petal",
+			"required": false
+		},
+		{
+			"id": "botania:gray_mushroom",
+			"required": false
+		},
+		{
+			"id": "forestry:ash",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:dead_mans_fingers",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:black_truffle",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:black_velvet_bolete",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:chrome_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:chrome_coral_fan",
+			"required": false
+		}
+	]
+}

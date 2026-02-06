@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomemakeover:bulbus_root",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:cattail",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:cattail",
+			"required": false
+		},
+		{
+			"id": "environmental:tall_cattail",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:giant_puffball",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:cattail",
+			"required": false
+		},
+		{
+			"id": "silverbirch:cattail",
+			"required": false
+		}
+	]
+}

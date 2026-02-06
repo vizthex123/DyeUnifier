@@ -1,0 +1,80 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:dandelion",
+		"minecraft:horn_coral",
+		"minecraft:horn_coral_fan",
+		{
+			"id": "alexscaves:gelatin_yellow",
+			"required": false
+		},
+		{
+			"id": "atmospheric:forsythia",
+			"required": false
+		},
+		{
+			"id": "atmospheric:yellow_blossoms",
+			"required": false
+		},
+		{
+			"id": "atmospheric:warm_monkey_brush",
+			"required": false
+		},
+		{
+			"id": "botania:yellow_petal",
+			"required": false
+		},
+		{
+			"id": "botania:yellow_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:firecracker_flower_bush",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:lolipop_flower",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:yellow_daffodil",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:yellow_tulip",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:sythian_fungus",
+			"required": false
+		},
+		{
+			"id": "buzzier_bees:buttercup",
+			"required": false
+		},
+		{
+			"id": "environmental:yellow_hibiscus",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:swamp_russula",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:alpha_dandelion",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:yellow_bioshroom",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:yellow_lupine",
+			"required": false
+		},
+		{
+			"id": "#forge:dusts/sulfur",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:cornflower",
+		"minecraft:lapis_lazuli",
+		"minecraft:tube_coral",
+		"minecraft:tube_coral_fan",
+		{
+			"id": "botania:blue_petal",
+			"required": false
+		},
+		{
+			"id": "botania:blue_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:blue_bud",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:blueberries",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:blue_sage",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:violet_leather_flower",
+			"required": false
+		},
+		{
+			"id": "enlightened_end:cerulichen",
+			"required": false
+		},
+		{
+			"id": "environmental:bluebell",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:blue_chanterelle",
+			"required": false
+		},
+		{
+			"id": "pamhc2crops:blueberryseeditem",
+			"required": false
+		}
+	]
+}

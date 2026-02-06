@@ -1,0 +1,101 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:carrot",
+		"minecraft:glow_berries",
+		"minecraft:orange_tulip",
+		"minecraft:torchflower",
+		{
+			"id": "atmospheric:hot_monkey_brush",
+			"required": false
+		},
+		{
+			"id": "atmospheric:barrel_cactus",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:orange_glowshroom",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:burning_blossom",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:orange_cosmos",
+			"required": false
+		},
+		{
+			"id": "botania:orange_petal",
+			"required": false
+		},
+		{
+			"id": "botania:orange_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:california_poppy",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:guzmania",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:orange_amaranth",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:orange_daisy",
+			"required": false
+		},
+		{
+			"id": "buzzier_bees:buttercup",
+			"required": false
+		},
+		{
+			"id": "environmental:orange_hibiscus",
+			"required": false
+		},
+		{
+			"id": "environmental:tassleflower",
+			"required": false
+		},
+		{
+			"id": "netherexp:lightspores",
+			"required": false
+		},
+		{
+			"id": "phantasm:pream_berry",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:cave_hyssop",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:day_lily",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:orange_coneflower",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:orange_snowbelle",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:mallow",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:finger_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:finger_coral_fan",
+			"required": false
+		}
+	]
+}

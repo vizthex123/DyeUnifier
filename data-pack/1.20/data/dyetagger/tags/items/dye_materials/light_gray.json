@@ -1,0 +1,40 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:azure_bluet",
+		"minecraft:oxeye_daisy",
+		"minecraft:white_tulip",
+		{
+			"id": "atmospheric:yucca_flower",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:endbloom",
+			"required": false
+		},
+		{
+			"id": "botania:light_gray_petal",
+			"required": false
+		},
+		{
+			"id": "botania:light_gray_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:black_puff",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:richea",
+			"required": false
+		},
+		{
+			"id": "nourished_nether:ghoulflower",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:daisy",
+			"required": false
+		}
+	]
+}

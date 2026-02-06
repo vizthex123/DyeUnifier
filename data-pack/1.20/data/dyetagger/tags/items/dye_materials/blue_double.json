@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomeswevegone:blue_rose_bush",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:delphinium",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:hydrangea_bush",
+			"required": false
+		}
+	]
+}

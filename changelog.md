@@ -10,6 +10,23 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+## 4.0
+
+Ported to 1.20 (although this was the first version I made lol)
+- Tweaked a few of the TE centrifuge recipes
+
+Mod support added:
+
+- Alex's Caves
+- Jaden's Nether Expansion
+- Oceanfront
+- Vintage Delight
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.0
 
 Ported to 1.19.

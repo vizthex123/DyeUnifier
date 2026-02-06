@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomeswevegone:oddity_cactus",
+			"required": false
+		}
+	]
+}

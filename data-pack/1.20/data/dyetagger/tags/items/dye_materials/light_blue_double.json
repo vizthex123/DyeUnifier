@@ -1,0 +1,29 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "alexscaves:bioluminesscence",
+			"required": false
+		},
+		{
+			"id": "alexscaves:ping_pong_sponge",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:blue_hydrangea",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:icy_iris",
+			"required": false
+		},
+		{
+			"id": "environmental:blue_delphinium",
+			"required": false
+		},
+		{
+			"id": "outer_end:floral_paste",
+			"required": false
+		}
+	]
+}

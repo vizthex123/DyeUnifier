@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mushroomquest:dyers_polypore",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:henofthe_woods",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:witchs_butter",
+			"required": false
+		}
+	]
+}

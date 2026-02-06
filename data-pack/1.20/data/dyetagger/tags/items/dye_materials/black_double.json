@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomemakeover:black_thistle",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:shaggy_mane_block",
+			"required": false
+		}
+	]
+}

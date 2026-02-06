@@ -1,0 +1,70 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:vine",
+		{
+			"id": "alexscaves:archaic_vine",
+			"required": false
+		},
+		{
+			"id": "aquamirae:wisteria_niveis",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:willow_vine",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:green_glowshroom",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:small_lily_pad",
+			"required": false
+		},
+		{
+			"id": "botania:green_petal",
+			"required": false
+		},
+		{
+			"id": "botania:green_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:clover_patch",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:horseweed",
+			"required": false
+		},
+		{
+			"id": "ecologics:surface_moss",
+			"required": false
+		},
+		{
+			"id": "forestry:fertilizer_bio",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:parrot_toadstool",
+			"required": false
+		},
+		{
+			"id": "quark:cactus_paste",
+			"required": false
+		},
+		{
+			"id": "yungscavebiomes:prickly_vines",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:moss_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:moss_coral_fan",
+			"required": false
+		}
+	]
+}

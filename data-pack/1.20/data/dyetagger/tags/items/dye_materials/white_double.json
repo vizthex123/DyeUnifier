@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomemakeover:buttonbush",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:tall_white_lavender",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:tall_white_allium",
+			"required": false
+		},
+		{
+			"id": "environmental:white_delphinium",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:tassel",
+			"required": false
+		}
+	]
+}

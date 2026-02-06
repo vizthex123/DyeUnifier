@@ -1,0 +1,72 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:warped_fungus",
+		"minecraft:warped_roots",
+		"minecraft:twisting_vines",
+		{
+			"id": "alexscaves:marine_snow",
+			"required": false
+		},
+		{
+			"id": "botania:cyan_petal",
+			"required": false
+		},
+		{
+			"id": "botania:cyan_mushroom",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:cyan_bud",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:glowflower",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:cyan_amaranth",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:cyan_rose",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:cyan_tulip",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:winter_cyclamen",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:imparius_mushroom",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:bluing_bolete",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:verdigris_agaric",
+			"required": false
+		},
+		{
+			"id": "netherexp:warped_wart",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:blue_pickerelweed",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:acan_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:acan_coral_fan",
+			"required": false
+		}
+	]
+}
