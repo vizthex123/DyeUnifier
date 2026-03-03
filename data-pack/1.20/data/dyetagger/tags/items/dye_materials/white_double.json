@@ -18,6 +18,10 @@
 			"required": false
 		},
 		{
+			"id": "mushroomquest:giant_puffball",
+			"required": false
+		},
+		{
 			"id": "regions_unexplored:tassel",
 			"required": false
 		}

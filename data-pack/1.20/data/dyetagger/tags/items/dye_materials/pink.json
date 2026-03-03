@@ -2,8 +2,6 @@
 	"replace": false,
 	"values": [
 		"minecraft:pink_tulip",
-		"minecraft:brain_coral",
-		"minecraft:brain_coral_fan",
 		{
 			"id": "alexscaves:gelatin_pink",
 			"required": false
@@ -93,6 +91,10 @@
 			"required": false
 		},
 		{
+			"id": "phantasm:choral_fan",
+			"required": false
+		},
+		{
 			"id": "regions_unexplored:cactus_flower",
 			"required": false
 		},
@@ -106,6 +108,10 @@
 		},
 		{
 			"id": "regions_unexplored:pink_lupine",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:pink_magnolia_flowers",
 			"required": false
 		},
 		{

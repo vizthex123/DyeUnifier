@@ -12,6 +12,18 @@
 		{
 			"id": "aquamirae:oxygelium",
 			"required": false
+		},
+		{
+			"id": "mushroomquest:werewere_kokako",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:petal_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:petal_coral_fan",
+			"required": false
 		}
 	]
 }

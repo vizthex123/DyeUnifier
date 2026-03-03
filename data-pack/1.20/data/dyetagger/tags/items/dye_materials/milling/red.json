@@ -1,0 +1,31 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:redstone",
+		"minecraft:apple",
+		"minecraft:melon_slice",
+		"minecraft:sweet_berries",
+		"minecraft:red_mushroom",
+		"minecraft:crimson_fungus",
+		"minecraft:crimson_roots",
+		"minecraft:nether_wart",
+		"minecraft:weeping_vines",
+		"minecraft:spider_eye",
+		{
+			"id": "alexscaves:gelatin_red",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:waterlily",
+			"required": false
+		},
+		{
+			"id": "forestry:refractory_wax",
+			"required": false
+		},
+		{
+			"id": "netherexp:treacherous_flame",
+			"required": false
+		}
+	]
+}

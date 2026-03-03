@@ -3,8 +3,6 @@
 	"values": [
 		"minecraft:cornflower",
 		"minecraft:lapis_lazuli",
-		"minecraft:tube_coral",
-		"minecraft:tube_coral_fan",
 		{
 			"id": "botania:blue_petal",
 			"required": false
@@ -43,6 +41,10 @@
 		},
 		{
 			"id": "pamhc2crops:blueberryseeditem",
+			"required": false
+		},
+		{
+			"id": "phantasm:hanging_pream_leaves",
 			"required": false
 		}
 	]

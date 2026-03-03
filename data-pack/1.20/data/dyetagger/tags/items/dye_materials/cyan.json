@@ -57,15 +57,15 @@
 			"required": false
 		},
 		{
-			"id": "upgrade_aquatic:blue_pickerelweed",
+			"id": "phantasm:vivid_nihilis",
 			"required": false
 		},
 		{
-			"id": "upgrade_aquatic:acan_coral",
+			"id": "regions_unexplored:hyacinth_flowers",
 			"required": false
 		},
 		{
-			"id": "upgrade_aquatic:acan_coral_fan",
+			"id": "upgrade_aquatic:pickerelweed",
 			"required": false
 		}
 	]

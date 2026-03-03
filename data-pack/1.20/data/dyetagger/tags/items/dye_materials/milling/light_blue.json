@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "alexscaves:gelatin_blue",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:dewdrop_bonnet",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:indigo_milkcap",
+			"required": false
+		}
+	]
+}

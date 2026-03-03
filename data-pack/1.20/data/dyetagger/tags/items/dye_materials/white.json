@@ -52,11 +52,19 @@
 			"required": false
 		},
 		{
+			"id": "biomeswevegone:white_puffball_cap",
+			"required": false
+		},
+		{
 			"id": "buzzier_bees:white_clover",
 			"required": false
 		},
 		{
 			"id": "environmental:white_lotus_flower",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:common_puffball",
 			"required": false
 		},
 		{
@@ -89,14 +97,6 @@
 		},
 		{
 			"id": "upgrade_aquatic:white_searocket",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:pillow_coral",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:pillow_coral_fan",
 			"required": false
 		},
 		{

@@ -8,14 +8,15 @@
 		"minecraft:red_tulip",
 		"minecraft:spider_eye",
 		"minecraft:sweet_berries",
-		"minecraft:melon_slice",
 		"minecraft:crimson_fungus",
 		"minecraft:crimson_roots",
 		"minecraft:nether_wart",
 		"minecraft:weeping_vines",
-		"minecraft:fire_coral",
-		"minecraft:fire_coral_fan",
 		"minecraft:redstone",
+		{
+			"id": "#forge:fruits/cherry",
+			"required": false
+		},
 		{
 			"id": "alexscaves:gelatin_red",
 			"required": false
@@ -81,7 +82,19 @@
 			"required": false
 		},
 		{
+			"id": "forestry:refractory_wax",
+			"required": false
+		},
+		{
 			"id": "pamhc2crops:cactusfruitseeditem",
+			"required": false
+		},
+		{
+			"id": "netherexp:ancient_wax",
+			"required": false
+		},
+		{
+			"id": "netherexp:treacherous_flame",
 			"required": false
 		},
 		{

@@ -2,8 +2,14 @@
 	"replace": false,
 	"values": [
 		"minecraft:dandelion",
-		"minecraft:horn_coral",
-		"minecraft:horn_coral_fan",
+		{
+			"id": "#forge:dusts/sulfur",
+			"required": false
+		},
+		{
+			"id": "#forge:fruits/lemon",
+			"required": false
+		},
 		{
 			"id": "alexscaves:gelatin_yellow",
 			"required": false
@@ -57,6 +63,10 @@
 			"required": false
 		},
 		{
+			"id": "forestry:beeswax",
+			"required": false
+		},
+		{
 			"id": "mushroomquest:swamp_russula",
 			"required": false
 		},
@@ -70,10 +80,6 @@
 		},
 		{
 			"id": "regions_unexplored:yellow_lupine",
-			"required": false
-		},
-		{
-			"id": "#forge:dusts/sulfur",
 			"required": false
 		}
 	]

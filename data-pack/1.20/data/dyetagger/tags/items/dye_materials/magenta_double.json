@@ -1,6 +1,14 @@
 {
 	"replace": false,
 	"values": [
-		"minecraft:lilac"
+		"minecraft:lilac",
+		{
+			"id": "phantasm:dragon_mint",
+			"required": false
+		},
+		{
+			"id": "phantasm:tall_acidic_nihilis",
+			"required": false
+		}
 	]
 }

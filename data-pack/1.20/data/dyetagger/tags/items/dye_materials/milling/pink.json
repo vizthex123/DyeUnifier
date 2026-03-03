@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "alexscaves:gelatin_pink",
+			"required": false
+		},
+		{
+			"id": "alexscaves:sweet_puff",
+			"required": false
+		},
+		{
+			"id": "atmospheric:dragon_fruit",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:pink_magnolia_flowers",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:pink_bioshroom",
+			"required": false
+		}
+	]
+}

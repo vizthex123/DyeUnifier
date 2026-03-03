@@ -17,12 +17,16 @@
 * [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)
 * [Pam's Harvestcraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
 * [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)
-* [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
-* [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
 * [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
 * [Vintage Delight](https://www.curseforge.com/minecraft/mc-mods/vintage-delight)
 * [XyCraft: World](https://www.curseforge.com/minecraft/mc-mods/xycraft-world)
 * [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)
+
+<br />
+
+Alternate recipes:
+* [Create](https://www.curseforge.com/minecraft/mc-mods/create) (requires [KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create))
+* [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) (requires [KubeJS Thermal](https://www.curseforge.com/minecraft/mc-mods/kubejs-thermal))
 
 <br />
 

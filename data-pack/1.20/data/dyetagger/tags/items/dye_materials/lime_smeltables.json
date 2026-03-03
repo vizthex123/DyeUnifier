@@ -3,6 +3,18 @@
 	"values": [
 		"minecraft:sea_pickle",
 		"minecraft:small_dripleaf",
-		"minecraft:big_dripleaf"
+		"minecraft:big_dripleaf",
+		{
+			"id": "mushroomquest:oyster_mushroom",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:star_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:star_coral_fan",
+			"required": false
+		}
 	]
 }

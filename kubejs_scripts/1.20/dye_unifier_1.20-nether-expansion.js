@@ -1,4 +1,5 @@
-// Adds recipes that use items from The Outer End
+// Adds recipes to TE's Centrifugal Separator that use items from Jaden's Nether Expansion
+// Requires KubeJS Thermal
 ServerEvents.recipes(e => {
 
     // Cyan

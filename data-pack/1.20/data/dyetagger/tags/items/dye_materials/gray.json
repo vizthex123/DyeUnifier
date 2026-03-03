@@ -1,7 +1,6 @@
 {
 	"replace": false,
 	"values": [
-		"#dyetagger:dead_coral",
 		{
 			"id": "biomemakeover:gray_bud",
 			"required": false
@@ -32,14 +31,6 @@
 		},
 		{
 			"id": "mushroomquest:black_velvet_bolete",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:chrome_coral",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:chrome_coral_fan",
 			"required": false
 		}
 	]

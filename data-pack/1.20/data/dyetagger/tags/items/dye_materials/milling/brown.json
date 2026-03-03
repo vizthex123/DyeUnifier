@@ -1,0 +1,42 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "alexscaves:moth_dust",
+			"required": false
+		},
+		"minecraft:brown_mushroom",
+		{
+			"id": "biomeswevegone:weeping_milkcap",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:wood_blewit",
+			"required": false
+		},
+		{
+			"id": "ecologics:coconut_husk",
+			"required": false
+		},
+		{
+			"id": "ecologics:walnut",
+			"required": false
+		},
+		{
+			"id": "forestry:mulch",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:brown_roll_rim",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:mica_caps",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:wooly_chanterelle",
+			"required": false
+		}
+	]
+}

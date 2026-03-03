@@ -50,6 +50,10 @@
 			"required": false
 		},
 		{
+			"id": "forestry:phosphor",
+			"required": false
+		},
+		{
 			"id": "quark:glow_shroom",
 			"required": false
 		},
@@ -59,14 +63,6 @@
 		},
 		{
 			"id": "regions_unexplored:green_bioshroom",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:star_coral",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:star_coral_fan",
 			"required": false
 		}
 	]

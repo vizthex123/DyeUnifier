@@ -2,8 +2,6 @@
 	"replace": false,
 	"values": [
 		"minecraft:allium",
-		"minecraft:bubble_coral",
-		"minecraft:bubble_coral_fan",
 		{
 			"id": "autumnity:autumn_crocus",
 			"required": false
@@ -66,6 +64,14 @@
 		},
 		{
 			"id": "netherexp:nightspores",
+			"required": false
+		},
+		{
+			"id": "phantasm:pome_slice",
+			"required": false
+		},
+		{
+			"id": "phantasm:acidic_nihilis",
 			"required": false
 		},
 		{

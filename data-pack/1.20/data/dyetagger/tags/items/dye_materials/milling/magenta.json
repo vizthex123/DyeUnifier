@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "ecologics:prickly_pear",
+			"required": false
+		},
+		{
+			"id": "netherexp:nightspores",
+			"required": false
+		},
+		{
+			"id": "phantasm:acidic_nihilis",
+			"required": false
+		},
+		{
+			"id": "phantasm:pome_slice",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:mulberry",
+			"required": false
+		}
+	]
+}

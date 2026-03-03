@@ -8,6 +8,14 @@
 		{
 			"id": "mushroomquest:wood_blewit",
 			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:silk_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:silk_coral_fan",
+			"required": false
 		}
 	]
 }

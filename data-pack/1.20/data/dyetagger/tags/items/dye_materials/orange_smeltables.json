@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "upgrade_aquatic:finger_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:finger_coral_fan",
+			"required": false
+		}
+	]
+}

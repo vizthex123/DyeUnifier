@@ -5,6 +5,11 @@
 		"minecraft:glow_berries",
 		"minecraft:orange_tulip",
 		"minecraft:torchflower",
+		"minecraft:blaze_powder",
+		{
+			"id": "#forge:fruits/orange",
+			"required": false
+		},
 		{
 			"id": "atmospheric:hot_monkey_brush",
 			"required": false
@@ -87,14 +92,6 @@
 		},
 		{
 			"id": "regions_unexplored:mallow",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:finger_coral",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:finger_coral_fan",
 			"required": false
 		}
 	]

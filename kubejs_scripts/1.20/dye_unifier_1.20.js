@@ -1,7 +1,7 @@
 // Makes dye recipes use the tags from the datapack
 // Only wet & dry items require smelting (like in vanilla)
 ServerEvents.recipes(e => {
-/*
+
     // Removals
     e.remove({type: "crafting_shapeless", output: "white_dye"})
     e.remove({type: "crafting_shapeless", output: "orange_dye"})
@@ -9,6 +9,7 @@ ServerEvents.recipes(e => {
     e.remove({type: "crafting_shapeless", output: "light_blue_dye"})
     e.remove({type: "crafting_shapeless", output: "yellow_dye"})
     e.remove({type: "crafting_shapeless", output: "lime_dye"})
+    e.remove({type: "smelting", output: "lime_dye"})
     e.remove({type: "crafting_shapeless", output: "pink_dye"})
     e.remove({type: "crafting_shapeless", output: "gray_dye"})
     e.remove({type: "crafting_shapeless", output: "light_gray_dye"})
@@ -21,24 +22,21 @@ ServerEvents.recipes(e => {
     e.remove({type: "crafting_shapeless", output: "red_dye"})
     e.remove({type: "crafting_shapeless", output: "black_dye"})
 
-    e.remove({id: "biomemakeover:dye/magenta_dye_from_magenta_bud"})
-    e.remove({id: "biomemakeover:dye/pink_dye_from_pink_bud"})
-    e.remove({id: "biomemakeover:dye/blue_dye_from_blue_bud"})
-    e.remove({id: "biomemakeover:dye/brown_dye_from_brown_bud"})
-    e.remove({id: "biomemakeover:dye/cyan_dye_from_cyan_bud"})
-    e.remove({id: "biomemakeover:dye/gray_dye_from_gray_bud"})
-    e.remove({id: "biomemakeover:dye/light_blue_dye_from_light_blue_bud"})
-    e.remove({id: "biomemakeover:dye/purple_dye_from_purple_bud"})
-*/
+    e.remove({type: "smelting", output: "orange_dye"})
+    e.remove({type: "smelting", output: "light_blue_dye"})
+    e.remove({type: "smelting", output: "yellow_dye"})
+    e.remove({type: "smelting", output: "brown_dye"})
+
     // White
     e.shapeless("white_dye", ["#dyetagger:dye_materials/white"]).id("dyeunifier:white_dye")
     e.shapeless("2x white_dye", ["#dyetagger:dye_materials/white_double"]).id("dyeunifier:white_dye_double")
-    // e.smelting("white_dye", ["#dyetagger:dye_materials/white_smeltables"], 1).id("dyeunifier:white_dye_smelting")
+    e.smelting("white_dye", ["#dyetagger:dye_materials/white_smeltables"], 1).id("dyeunifier:white_dye_smelting")
 
     // Orange
     e.shapeless("orange_dye", ["#dyetagger:dye_materials/orange"]).id("dyeunifier:orange_dye")
     e.shapeless("2x orange_dye", ["#dyetagger:dye_materials/orange_double"]).id("dyeunifier:orange_dye_double")
     e.shapeless("2x orange_dye", ["#forge:dyes/yellow", "#forge:dyes/red"]).id("dyeunifier:orange_dye_combine")
+    e.smelting("orange_dye", ["#dyetagger:dye_materials/orange_smeltables"], 1).id("dyeunifier:orange_dye_smelting")
 
     // Magenta
     e.shapeless("magenta_dye", ["#dyetagger:dye_materials/magenta"]).id("dyeunifier:magenta_dye")
@@ -46,11 +44,13 @@ ServerEvents.recipes(e => {
     e.shapeless("2x magenta_dye", ["#forge:dyes/purple", "#forge:dyes/pink"]).id("dyeunifier:magenta_dye_combine")
     e.shapeless("3x magenta_dye", ["#forge:dyes/red", "#forge:dyes/blue", "#forge:dyes/pink"]).id("dyeunifier:magenta_dye_triple_combine")
     e.shapeless("4x magenta_dye", ["#forge:dyes/red", "#forge:dyes/red", "#forge:dyes/blue", "#forge:dyes/white"]).id("dyeunifier:magenta_dye_quadruple_combine")
+    e.smelting("magenta_dye", ["#dyetagger:dye_materials/magenta_smeltables"], 1).id("dyeunifier:magenta_dye_smelting")
 
     // Light Blue
     e.shapeless("light_blue_dye", ["#dyetagger:dye_materials/light_blue"]).id("dyeunifier:light_blue_dye")
     e.shapeless("2x light_blue_dye", ["#dyetagger:dye_materials/light_blue_double"]).id("dyeunifier:light_blue_dye_double")
     e.shapeless("2x light_blue_dye", ["#forge:dyes/white", "#forge:dyes/blue"]).id("dyeunifier:light_blue_dye_combine")
+    e.smelting("light_blue_dye", "#dyetagger:dye_materials/light_blue_smeltables", 1).id("dyeunifier:light_blue_smelting")
 
     // Yellow
     e.shapeless("yellow_dye", ["#dyetagger:dye_materials/yellow"]).id("dyeunifier:yellow_dye")
@@ -67,12 +67,14 @@ ServerEvents.recipes(e => {
     e.shapeless("pink_dye", ["#dyetagger:dye_materials/pink"]).id("dyeunifier:pink_dye")
     e.shapeless("2x pink_dye", ["#dyetagger:dye_materials/pink_double"]).id("dyeunifier:pink_dye_double")
     e.shapeless("2x pink_dye", ["#forge:dyes/white", "#forge:dyes/red"]).id("dyeunifier:pink_dye_combine")
+    e.smelting("pink_dye", "#dyetagger:dye_materials/pink_smeltables", 1).id("dyeunifier:pink_dye_smelting")
 
-    // Gray
+    // Grey
     e.shapeless("gray_dye", ["#dyetagger:dye_materials/gray"]).id("dyeunifier:grey_dye")
     e.shapeless("gray_dye", ["#forge:dyes/white", "#forge:dyes/black"]).id("dyeunifier:grey_dye_combine")
+    e.smelting("gray_dye", "#dyetagger:dye_materials/gray_smeltables", 1).id("dyeunifier:grey_dye_smelting")
 
-    // Light Gray
+    // Light Grey
     e.shapeless("light_gray_dye", ["#dyetagger:dye_materials/light_gray"]).id("dyeunifier:light_gray_dye")
     e.shapeless("2x light_gray_dye", ["#forge:dyes/white", "#forge:dyes/gray"]).id("dyeunifier:light_gray_dye_combine")
     e.shapeless("3x light_gray_dye", ["#forge:dyes/white", "#forge:dyes/white", "#forge:dyes/black"]).id("dyeunifier:light_grey_dye_triple_combine")
@@ -81,6 +83,7 @@ ServerEvents.recipes(e => {
     e.shapeless("cyan_dye", ["#dyetagger:dye_materials/cyan"]).id("dyeunifier:cyan_dye")
     e.shapeless("2x cyan_dye", ["#dyetagger:dye_materials/cyan_double"]).id("dyeunifier:cyan_dye_double")
     e.shapeless("2x cyan_dye", ["#forge:dyes/green", "#forge:dyes/blue"]).id("dyeunifier:cyan_dye_combine")
+    e.smelting("cyan_dye", "#dyetagger:dye_materials/cyan_smeltables", 1).id("dyeunifier:cyan_dye_smelting")
 
     // Purple
     e.shapeless("purple_dye", ["#dyetagger:dye_materials/purple"]).id("dyeunifier:purple_dye")
@@ -92,6 +95,7 @@ ServerEvents.recipes(e => {
     e.shapeless("blue_dye", ["#dyetagger:dye_materials/blue"]).id("dyeunifier:blue_dye")
     e.shapeless("2x blue_dye", ["#dyetagger:dye_materials/blue_double"]).id("dyeunifier:blue_dye_double")
     e.shapeless("blue_dye", ["#forge:dyes/black", "#forge:dyes/light_blue"]).id("dyeunifier:blue_dye_combine")
+    e.smelting("blue_dye", "#dyetagger:dye_materials/blue_smeltables", 1).id("dyeunifier:blue_dye_smelting")
 
     // Brown
     e.shapeless("brown_dye", ["#dyetagger:dye_materials/brown"]).id("dyeunifier:brown_dye")
@@ -107,9 +111,12 @@ ServerEvents.recipes(e => {
     // Red
     e.shapeless("red_dye", ["#dyetagger:dye_materials/red"]).id("dyeunifier:red_dye")
     e.shapeless("2x red_dye", ["#dyetagger:dye_materials/red_double"]).id("dyeunifier:red_dye_double")
+    e.shapeless("red_dye", ["melon_slice", "melon_slice"]).id("dyeunifier:red_dye_melon_slices")
+    e.smelting("red_dye", "#dyetagger:dye_materials/red_smeltables", 1).id("dyeunifier:red_dye_smelting")
 
     // Black
     e.shapeless("black_dye", ["#dyetagger:dye_materials/black"]).id("dyeunifier:black_dye")
     e.shapeless("2x black_dye", ["#dyetagger:dye_materials/black_double"]).id("dyeunifier:black_dye_double")
+    e.smelting("black_dye", "#dyetagger:dye_materials/black_smeltables", 1).id("dyeunifier:black_dye_smelting")
 
 })

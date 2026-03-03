@@ -98,6 +98,10 @@
 			"required": false
 		},
 		{
+			"id": "phantasm:oblifruit",
+			"required": false
+		},
+		{
 			"id": "phantasm:oblivine",
 			"required": false
 		},
@@ -107,14 +111,6 @@
 		},
 		{
 			"id": "upgrade_aquatic:purple_pickerelweed",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:silk_coral",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:silk_coral_fan",
 			"required": false
 		}
 	]

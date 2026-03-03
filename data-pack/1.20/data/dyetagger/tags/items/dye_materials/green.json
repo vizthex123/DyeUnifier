@@ -7,19 +7,11 @@
 			"required": false
 		},
 		{
-			"id": "aquamirae:wisteria_niveis",
-			"required": false
-		},
-		{
 			"id": "biomesoplenty:willow_vine",
 			"required": false
 		},
 		{
 			"id": "biomemakeover:green_glowshroom",
-			"required": false
-		},
-		{
-			"id": "biomemakeover:small_lily_pad",
 			"required": false
 		},
 		{
@@ -55,15 +47,11 @@
 			"required": false
 		},
 		{
+			"id": "regions_unexplored:kapok_vines",
+			"required": false
+		},
+		{
 			"id": "yungscavebiomes:prickly_vines",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:moss_coral",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:moss_coral_fan",
 			"required": false
 		}
 	]

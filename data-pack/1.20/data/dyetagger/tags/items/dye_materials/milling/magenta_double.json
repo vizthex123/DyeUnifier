@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "phantasm:tall_acidic_nihilis",
+			"required": false
+		},
+		{
+			"id": "phantasm:dragon_mint",
+			"required": false
+		}
+	]
+}

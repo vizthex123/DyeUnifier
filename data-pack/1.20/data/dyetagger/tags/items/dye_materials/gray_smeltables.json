@@ -1,0 +1,14 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "upgrade_aquatic:chrome_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:chrome_coral_fan",
+			"required": false
+		},
+		"#dyetagger:dead_corals"
+	]
+}

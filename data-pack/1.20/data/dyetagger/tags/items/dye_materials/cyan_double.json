@@ -8,6 +8,10 @@
 		{
 			"id": "biomeswevegone:foxglove",
 			"required": false
+		},
+		{
+			"id": "phantasm:tall_vivid_nihilis",
+			"required": false
 		}
 	]
 }

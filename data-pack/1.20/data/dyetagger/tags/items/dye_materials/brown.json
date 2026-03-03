@@ -78,18 +78,6 @@
 		{
 			"id": "netherexp:blightwart",
 			"required": false
-		},
-		{
-			"id": "nourished_nether:sludge_ball",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:rock_coral",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:rock_coral_fan",
-			"required": false
 		}
 	]
 }

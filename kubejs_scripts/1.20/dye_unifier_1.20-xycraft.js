@@ -1,8 +1,8 @@
-// Adds recipes that use items from XyCraft World
+// Adds recipes to TE's Centrifugal Separator that use items from XyCraft World
+// Requires KubeJS Thermal
 ServerEvents.recipes(e => {
 
     // Xychorium dyes
-    // Uses 50% more RF than a standard Centrifuge Dye Extraction recipe and gives 4 Dye per item
     e.recipes.thermal.centrifuge(["xycraft_world:xychorium_gem_light", "4x blue_dye"], "xycraft_world:xychorium_gem_blue", 3).energy(2000).id("dyeunifier:xychorium_blue")
     e.recipes.thermal.centrifuge(["xycraft_world:xychorium_gem_light", "4x green_dye"], "xycraft_world:xychorium_gem_green", 3).energy(2000).id("dyeunifier:xychorium_green")
     e.recipes.thermal.centrifuge(["xycraft_world:xychorium_gem_light", "4x red_dye"], "xycraft_world:xychorium_gem_red", 3).energy(2000).id("dyeunifier:xychorium_red")

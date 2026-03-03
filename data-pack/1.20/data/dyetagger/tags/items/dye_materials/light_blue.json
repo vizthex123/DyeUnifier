@@ -27,10 +27,6 @@
 			"required": false
 		},
 		{
-			"id": "forestry:phosphor",
-			"required": false
-		},
-		{
 			"id": "mushroomquest:indigo_milkcap",
 			"required": false
 		},
@@ -44,6 +40,14 @@
 		},
 		{
 			"id": "netherexp:blightspores",
+			"required": false
+		},
+		{
+			"id": "netherexp:soul_torchflower",
+			"required": false
+		},
+		{
+			"id": "netherexp:banshee_powder",
 			"required": false
 		},
 		{
@@ -63,15 +67,11 @@
 			"required": false
 		},
 		{
+			"id": "regions_unexplored:blue_magnolia_flowers",
+			"required": false
+		},
+		{
 			"id": "yungscavebiomes:frost_lily",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:petal_coral",
-			"required": false
-		},
-		{
-			"id": "upgrade_aquatic:petal_coral_fan",
 			"required": false
 		}
 	]

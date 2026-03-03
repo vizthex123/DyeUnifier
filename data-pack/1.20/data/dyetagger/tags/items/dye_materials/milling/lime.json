@@ -1,0 +1,29 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "ad_astra:aeronos_mushroom",
+			"required": false
+		},
+		{
+			"id": "alexscaves:gelatin_green",
+			"required": false
+		},
+		{
+			"id": "alexscaves:toxic_paste",
+			"required": false
+		},
+		{
+			"id": "atmospheric:yucca_fruit",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:green_apple",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:green_mushroom",
+			"required": false
+		}
+	]
+}

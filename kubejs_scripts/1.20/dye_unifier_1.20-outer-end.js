@@ -1,9 +1,10 @@
-// Adds recipes that use items from The Outer End
+// Adds recipes to TE's Centrifugal Separator that use items from The Outer End
+// Requires KubeJS Thermal
 ServerEvents.recipes(e => {
 
     // White
     e.recipes.thermal.centrifuge(["2x white_dye", "2x light_gray_dye"], "outer_end:halite_crystal", 3).energy(2000).id("dyeunifier:centrifuge_halite_crystal")
-    e.recipes.thermal.centrifuge(["2x white_dye", "light_gray_dye"], "outer_end:sinker_tooth", 2).energy(1800).id("dyeunifier:centrifuge_sinker_tooth")
+    e.recipes.thermal.centrifuge(["2x white_dye", "light_gray_dye", "2x bone_meal"], "outer_end:sinker_tooth", 2).energy(1800).id("dyeunifier:centrifuge_sinker_tooth")
 
     // Cyan
     e.recipes.thermal.centrifuge(["2x cyan_dye", "light_blue_dye"], "outer_end:spectragel", 2).energy(1800).id("dyeunifier:centrifuge_spectragel")

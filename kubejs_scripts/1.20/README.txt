@@ -4,4 +4,4 @@ For the files with mods in their names, they all add recipes to Thermal Expansio
 
 Assuming you've got all of the TE supported mods installed, you should just be able to toss them into your modpack (alongside the datapack) & be set, though.
 
-KubeJS might print some errors about tags not existing, and if it does just remove the lines for the empty tags.
+KubeJS might print some errors about tags not existing, and if it does just remove (or comment out) the lines for the empty tags. Same goes if you find a recipe with no input item - just remove it from the script and it'll be fine.

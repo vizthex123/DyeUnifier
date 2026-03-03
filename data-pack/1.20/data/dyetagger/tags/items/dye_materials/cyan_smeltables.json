@@ -4,6 +4,14 @@
 		{
 			"id": "atmospheric:agave",
 			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:acan_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:acan_coral_fan",
+			"required": false
 		}
 	]
 }

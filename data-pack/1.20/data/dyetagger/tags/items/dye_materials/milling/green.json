@@ -1,0 +1,50 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomemakeover:green_glowshroom",
+			"required": false
+		},
+		"minecraft:vine",
+		{
+			"id": "biomesoplenty:willow_vine",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:clover_patch",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:huge_clover_petal",
+			"required": false
+		},
+		{
+			"id": "biomeswevegone:horseweed",
+			"required": false
+		},
+		{
+			"id": "buzzier_bees:four_leaf_clover",
+			"required": false
+		},
+		{
+			"id": "ecologics:surface_moss",
+			"required": false
+		},
+		{
+			"id": "forestry:fertilizer_bio",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:parrot_toadstool",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:kapok_vines",
+			"required": false
+		},
+		{
+			"id": "yungscavebiomes:prickly_vines",
+			"required": false
+		}
+	]
+}

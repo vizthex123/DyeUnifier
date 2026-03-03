@@ -1,0 +1,45 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "#forge:dusts/sulfur",
+			"required": false
+		},
+		{
+			"id": "#forge:fruits/lemon",
+			"required": false
+		},
+		{
+			"id": "ad_astra:cheese",
+			"required": false
+		},
+		{
+			"id": "alexscaves:gelatin_yellow",
+			"required": false
+		},
+		{
+			"id": "atmospheric:yellow_blossoms",
+			"required": false
+		},
+		{
+			"id": "forestry:beeswax",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:golden_chanterelle",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:golden_stainer",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:swamp_russula",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:yellow_bioshroom",
+			"required": false
+		}
+	]
+}

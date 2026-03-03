@@ -12,6 +12,10 @@
 		{
 			"id": "biomeswevegone:hydrangea_bush",
 			"required": false
+		},
+		{
+			"id": "regions_unexplored:meadow_sage",
+			"required": false
 		}
 	]
 }

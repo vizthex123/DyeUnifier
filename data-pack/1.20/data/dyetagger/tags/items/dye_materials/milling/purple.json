@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "alexscaves:licoroot_vine",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:purple_glowshroom",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:violet_cort",
+			"required": false
+		},
+		{
+			"id": "mushroomquest:wood_blewit",
+			"required": false
+		},
+		{
+			"id": "oceanfront:beach_plum",
+			"required": false
+		},
+		{
+			"id": "phantasm:oblifruit",
+			"required": false
+		},
+		{
+			"id": "phantasm:oblivine",
+			"required": false
+		}
+	]
+}

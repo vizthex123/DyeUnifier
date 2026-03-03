@@ -2,6 +2,10 @@
 	"replace": false,
 	"values": [
 		{
+			"id": "aquamirae:wisteria_niveis",
+			"required": false
+		},
+		{
 			"id": "biomesoplenty:huge_clover_petal",
 			"required": false
 		},

@@ -1,7 +1,6 @@
 {
 	"replace": false,
 	"values": [
-		"minecraft:lily_pad",
 		{
 			"id": "aquamirae:anglers_fang",
 			"required": false
@@ -10,18 +9,35 @@
 			"id": "atmospheric:aloe_leaves",
 			"required": false
 		},
+		"minecraft:lily_pad",
+		{
+			"id": "biomemakeover:water_lily",
+			"required": false
+		},
 		{
 			"id": "biomemakeover:small_lily_pad",
 			"required": false
 		},
 		{
-			"id": "biomeswevegone:tiny_lilypads",
+			"id": "biomeswevegone:tiny_lily_pads",
 			"required": false
 		},
 		{
 			"id": "biomeswevegone:flowering_tiny_lily_pads",
 			"required": false
 		},
-		"#dyetagger:cacti"
+		{
+			"id": "regions_unexplored:flowering_lily_pad",
+			"required": false
+		},
+		"#dyetagger:cacti",
+		{
+			"id": "upgrade_aquatic:moss_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:moss_coral_fan",
+			"required": false
+		}
 	]
 }

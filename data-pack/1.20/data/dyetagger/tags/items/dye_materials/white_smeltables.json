@@ -4,6 +4,14 @@
 		{
 			"id": "biomeswevegone:oddity_cactus",
 			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:pillow_coral",
+			"required": false
+		},
+		{
+			"id": "upgrade_aquatic:pillow_coral_fan",
+			"required": false
 		}
 	]
 }
